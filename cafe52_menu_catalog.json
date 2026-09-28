@@ -1,0 +1,227 @@
+[
+  {
+    "id": "food-01",
+    "name": "Mohammedi Special Shawarma Roll",
+    "category": "shawarma",
+    "badge": "CORE SIGNATURE",
+    "qrRefCode": "QR52-SHW-01",
+    "prepTime": "6 mins",
+    "spiceLevel": 3,
+    "tagline": "Spit-roasted sliced chicken in toasted flatbread",
+    "description": "Slow-roasted vertical spit chicken shavings layered with velvety garlic toum, golden crispy potato batons, and traditional pickled ruby beetroot wrapped in charred artisanal bread.",
+    "ingredients": [
+      "Spit-Carved Chicken",
+      "Garlic Toum Emulsion",
+      "Pickled Ruby Beetroot",
+      "Golden Fries",
+      "Toasted Rumali Bread"
+    ],
+    "whatsappInquiryUrl": "https://wa.me/919820525252?text=Hello%20Caf%C3%A9%2052!%20Inquiring%20about%20Mohammedi%20Special%20Shawarma%20Roll%20(QR52-SHW-01)"
+  },
+  {
+    "id": "food-02",
+    "name": "Crispy Fried Tenders Platter",
+    "category": "fried-chicken",
+    "badge": "CHEF FAVORITE",
+    "qrRefCode": "QR52-TND-02",
+    "prepTime": "8 mins",
+    "spiceLevel": 2,
+    "tagline": "6x ultra-crunch marinated fillets with trio dip array",
+    "description": "Golden double-crunch chicken tenderloins seasoned with secret 52-herb spice rub, served alongside toasted pita slices, fresh shredded slaw, garlic mayo, spicy dynamite sauce, and tangy honey mustard.",
+    "ingredients": [
+      "Crunch Tenders (6pcs)",
+      "Spicy Dynamite Sauce",
+      "Creamy Garlic Mayo",
+      "Mustard Dip",
+      "Pita & Coleslaw"
+    ],
+    "whatsappInquiryUrl": "https://wa.me/919820525252?text=Hello%20Caf%C3%A9%2052!%20Inquiring%20about%20Crispy%20Fried%20Tenders%20Platter%20(QR52-TND-02)"
+  },
+  {
+    "id": "food-03",
+    "name": "Fiery Wok Schezwan Chicken Noodles",
+    "category": "wok-special",
+    "badge": "FIERY WOK",
+    "qrRefCode": "QR52-NDL-03",
+    "prepTime": "9 mins",
+    "spiceLevel": 4,
+    "tagline": "High-heat wok-tossed Hakka noodles with charred peppers",
+    "description": "Springy egg noodles tossed in a smoking iron wok over red flames with diced chicken tikka chunks, vibrant tri-color bell peppers, scallions, and house-infused fiery Schezwan chili oil.",
+    "ingredients": [
+      "Wok Noodles",
+      "Tikka Chicken Bites",
+      "Crisp Bell Peppers",
+      "Spring Onions",
+      "Smoked Schezwan Oil"
+    ],
+    "whatsappInquiryUrl": "https://wa.me/919820525252?text=Hello%20Caf%C3%A9%2052!%20Inquiring%20about%20Fiery%20Wok%20Schezwan%20Chicken%20Noodles%20(QR52-NDL-03)"
+  },
+  {
+    "id": "food-04",
+    "name": "Café 52 Triple Club Grilled Sandwich",
+    "category": "club-sandwich",
+    "badge": "BESTSELLER",
+    "qrRefCode": "QR52-SND-04",
+    "prepTime": "7 mins",
+    "spiceLevel": 2,
+    "tagline": "3-tier whole wheat toasted sandwich with spicy chicken & cheese",
+    "description": "Stacked layers of toasted artisanal loaf stuffed with roasted shredded spiced chicken tikka, molten mozzarella-cheddar blend, and crispy golden fries served with sweet tomato reduction.",
+    "ingredients": [
+      "Toasted Artisanal Loaf",
+      "Spicy Pulled Chicken Tikka",
+      "Molten Cheddar Blend",
+      "Crispy Golden Fries",
+      "Dip Sauce"
+    ],
+    "whatsappInquiryUrl": "https://wa.me/919820525252?text=Hello%20Caf%C3%A9%2052!%20Inquiring%20about%20Caf%C3%A9%2052%20Triple%20Club%20Grilled%20Sandwich%20(QR52-SND-04)"
+  },
+  {
+    "id": "food-05",
+    "name": "Spicy Schezwan Chicken Fried Rice",
+    "category": "wok-special",
+    "badge": "SPICY HIT",
+    "qrRefCode": "QR52-RIC-05",
+    "prepTime": "8 mins",
+    "spiceLevel": 4,
+    "tagline": "Fragrant basmati wok tossed with roasted chicken & egg",
+    "description": "Fluffy aged basmati rice tossed vigorously on high flames with aromatic ginger, garlic, cubed marinated chicken, scrambled egg ribbons, and rich toasted red chili spice.",
+    "ingredients": [
+      "Aged Basmati Rice",
+      "Cubed Chicken",
+      "Scrambled Egg Ribbons",
+      "Scallions",
+      "Schezwan Pepper Redux"
+    ],
+    "whatsappInquiryUrl": "https://wa.me/919820525252?text=Hello%20Caf%C3%A9%2052!%20Inquiring%20about%20Spicy%20Schezwan%20Chicken%20Fried%20Rice%20(QR52-RIC-05)"
+  },
+  {
+    "id": "food-06",
+    "name": "Wok-Glazed Chilli Chicken Dry",
+    "category": "wok-special",
+    "badge": "HOUSE SPECIAL",
+    "qrRefCode": "QR52-CHK-06",
+    "prepTime": "9 mins",
+    "spiceLevel": 3,
+    "tagline": "Crispy caramelized chicken cubes with spring onions & capsicum",
+    "description": "Crispy batter-fried chicken bites glazed in a dark soya and chili reduction with crunchy bell pepper diamonds, sweet red onion petals, and fresh green spring onions.",
+    "ingredients": [
+      "Glazed Chicken Morsels",
+      "Green Capsicum",
+      "Sweet Onion Petals",
+      "Garlic Chili Soy",
+      "Fresh Chives"
+    ],
+    "whatsappInquiryUrl": "https://wa.me/919820525252?text=Hello%20Caf%C3%A9%2052!%20Inquiring%20about%20Wok-Glazed%20Chilli%20Chicken%20Dry%20(QR52-CHK-06)"
+  },
+  {
+    "id": "food-07",
+    "name": "Cheesy Egg & Herb Grilled Toast",
+    "category": "club-sandwich",
+    "badge": "COMFORT BITE",
+    "qrRefCode": "QR52-EGG-07",
+    "prepTime": "5 mins",
+    "spiceLevel": 2,
+    "tagline": "Golden butter-toasted sandwich with fluffy spiced omelette",
+    "description": "Pan-seared seeded brown loaf stuffed with a thick fluffy masala omelette loaded with chopped herbs, green chilies, and a lavish crown of freshly grated cheddar cheese.",
+    "ingredients": [
+      "Double Farm Fresh Eggs",
+      "Seeded Brown Bread",
+      "Grated Cheddar Melt",
+      "Green Herbs",
+      "Toasted Butter"
+    ],
+    "whatsappInquiryUrl": "https://wa.me/919820525252?text=Hello%20Caf%C3%A9%2052!%20Inquiring%20about%20Cheesy%20Egg%20%26%20Herb%20Grilled%20Toast%20(QR52-EGG-07)"
+  },
+  {
+    "id": "food-08",
+    "name": "Peri-Peri Crispy French Fries Bowl",
+    "category": "fries",
+    "badge": "SNACK ATTACK",
+    "qrRefCode": "QR52-FRS-08",
+    "prepTime": "5 mins",
+    "spiceLevel": 3,
+    "tagline": "Skin-on golden fries dusted in zesty African bird’s eye seasoning",
+    "description": "Crisp hot french fries tossed in an aromatic blend of dried chili flakes, citrus peel powder, and peri-peri seasoning, served with a dual bowl of cheesy cocktail mayo and rich tomato ketchup.",
+    "ingredients": [
+      "Crispy Russet Fries",
+      "House Peri-Peri Seasoning",
+      "Cheesy Cocktail Sauce",
+      "Rich Tomato Ketchup"
+    ],
+    "whatsappInquiryUrl": "https://wa.me/919820525252?text=Hello%20Caf%C3%A9%2052!%20Inquiring%20about%20Peri-Peri%20Crispy%20French%20Fries%20Bowl%20(QR52-FRS-08)"
+  },
+  {
+    "id": "food-09",
+    "name": "Open Shawarma Loaded Fries Platter",
+    "category": "shawarma",
+    "badge": "HEAVYWEIGHT",
+    "qrRefCode": "QR52-OPN-09",
+    "prepTime": "7 mins",
+    "spiceLevel": 3,
+    "tagline": "Deconstructed shawarma feast over fries with garlic toum & beetroot",
+    "description": "Generous platter of golden fries smothered with spiced roasted chicken shawarma meat, drenched in velvety white garlic toum and yellow cheese drizzle, topped with crunchy pickled beetroot.",
+    "ingredients": [
+      "Pulled Shawarma Meat",
+      "Crispy Golden Fries",
+      "Velvety Garlic Toum",
+      "Cheese Drizzle",
+      "Pickled Beetroot"
+    ],
+    "whatsappInquiryUrl": "https://wa.me/919820525252?text=Hello%20Caf%C3%A9%2052!%20Inquiring%20about%20Open%20Shawarma%20Loaded%20Fries%20Platter%20(QR52-OPN-09)"
+  },
+  {
+    "id": "food-10",
+    "name": "Galouti Shami Cutlets Platter",
+    "category": "delicacy",
+    "badge": "HERITAGE RECIPE",
+    "qrRefCode": "QR52-CUT-10",
+    "prepTime": "8 mins",
+    "spiceLevel": 2,
+    "tagline": "Silky melt-in-mouth pan-seared patties with crispy potato fries",
+    "description": "Slow-simmered tender meat and lentil patties ground with fragrant Awadhi aromatics, pan-crisped to perfection, quartered and served alongside crispy french fries.",
+    "ingredients": [
+      "Slow-Cooked Meat Patties",
+      "Awadhi Potli Masala",
+      "Crispy Fries",
+      "Mint Yogurt Dip"
+    ],
+    "whatsappInquiryUrl": "https://wa.me/919820525252?text=Hello%20Caf%C3%A9%2052!%20Inquiring%20about%20Galouti%20Shami%20Cutlets%20Platter%20(QR52-CUT-10)"
+  },
+  {
+    "id": "food-11",
+    "name": "Artisan 52 Neon Latte Coffee",
+    "category": "beverage",
+    "badge": "BARISTA CRAFT",
+    "qrRefCode": "QR52-COF-11",
+    "prepTime": "4 mins",
+    "spiceLevel": 1,
+    "tagline": "Specialty double espresso with glowing 52 microfoam latte art",
+    "description": "Single-origin Ethiopian highland beans pulled into a dense golden crema, topped with silky microfoam hand-poured with the iconic 52 emblem and dusting of cinnamon starlight.",
+    "ingredients": [
+      "Single-Origin Arabica",
+      "Velvety Steamed Milk",
+      "Cinnamon Dust",
+      "Vanilla Infusion"
+    ],
+    "whatsappInquiryUrl": "https://wa.me/919820525252?text=Hello%20Caf%C3%A9%2052!%20Inquiring%20about%20Artisan%2052%20Neon%20Latte%20Coffee%20(QR52-COF-11)"
+  },
+  {
+    "id": "food-12",
+    "name": "Royal Mohammedi 24K Gold Sweets",
+    "category": "delicacy",
+    "badge": "ROYAL HERITAGE",
+    "qrRefCode": "QR52-SWT-12",
+    "prepTime": "Instant",
+    "spiceLevel": 1,
+    "tagline": "Signature handcrafted luxury confectionery with pure edible gold",
+    "description": "Heritage delicacy crafted from rich reduced milk solids, infused with Kashmiri saffron strands, Iranian pistachio slivers, and finished with delicate 24-karat edible gold leaf.",
+    "ingredients": [
+      "Reduced Cream Solid",
+      "Kashmiri Saffron",
+      "Iranian Pistachios",
+      "24K Edible Gold Leaf",
+      "Cardamom Essence"
+    ],
+    "whatsappInquiryUrl": "https://wa.me/919820525252?text=Hello%20Caf%C3%A9%2052!%20Inquiring%20about%20Royal%20Mohammedi%2024K%20Gold%20Sweets%20(QR52-SWT-12)"
+  }
+]
