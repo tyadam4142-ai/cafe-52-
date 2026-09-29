@@ -1,0 +1,6 @@
+{
+  "name": "Café 52 - Cinematic Kinetic Graphic Experience",
+  "description": "Dynamic, kinetic futuristic visual display concept for Café 52 by Mohammedi Sweets featuring multi-layered starry metal and carbon-fiber architecture, orbiting holographic food projections, pulsing digital QR52, and instant WhatsApp ordering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
